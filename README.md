@@ -1,1 +1,1 @@
-# IGF1R_QSAR_modeling_
+# IGF1R_QSAR_modeling
